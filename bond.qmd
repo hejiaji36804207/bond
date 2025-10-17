@@ -67,7 +67,7 @@ It still seems that the budget has been increasing with year, however there is a
 Lastly let's investigate whether there is a correlation between the earnings of the movie and the number of times James Bond says "Bond, James Bond".
 
 ```{r}
-bond.data |> ggplot(aes(x=BJB, y=US_Adj)) +
+bond.data |> ggplot(aes(x=Martinis, y=US_Adj)) +
     geom_point() +
     scale_color_continuous()
 ```
