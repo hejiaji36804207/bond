@@ -5,7 +5,7 @@ format:
     html: default
     pdf: default
 ---
-
+a
 In this document we will investigate the James Bond dataset from [Kaggle](https://www.kaggle.com/datasets/dreb87/jamesbond).
 In [@sec-initial] we will determine which film made the most money.
 In [@sec-earnings] we will check whether movie earnings and budget are correlated, when adjusted for inflation.
